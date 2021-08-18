@@ -2,10 +2,12 @@
   Using React, CommerceJs, Material-UI and Stripe
 ## ScreenShots
 
--Desktop
+### Desktop
+
 ![](./src/assets/desktop.PNG)
 
--Mobile
+### Mobile
+
 ![](./src/assets/mobile.png)
 
 ## Getting Started with Create React App
