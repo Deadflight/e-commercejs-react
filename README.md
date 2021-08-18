@@ -1,4 +1,10 @@
 # E-Commerce using Commercejs, Stripe, Material-UI
+  Using React, CommerceJs, Material-UI and Stripe
+## ScreenShots
+
+[Desktop](./src/assets/desktop.PNG)
+
+[Mobile](./src/assets/mobile.PNG)
 
 ## Getting Started with Create React App
 
